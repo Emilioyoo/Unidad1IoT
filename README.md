@@ -39,7 +39,7 @@ Este repositorio contiene la documentación y el código de los ejercicios asign
 
 #### ** Examen QUIZ **
 
-![image]()
+![image](https://github.com/Emilioyoo/JI/blob/main/Captura%20de%20pantalla%20(92).png?raw=true)
 
 
 
