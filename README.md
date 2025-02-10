@@ -34,7 +34,7 @@ Este repositorio contiene la documentación y el código de los ejercicios asign
 |--------------|--------------|
 |Jonathan Emilio Yañez Olvera | ![image](https://github.com/Emilioyoo/imagenex/blob/main/Captura%20de%20pantalla%20(106).png?raw=true) |
 
-|####  🧠 Ejercicios en clase: |
+| 🧠 Ejercicios en clase: |
 |--------------|
 |- [EJERCICIOS - DRIVE](https://drive.google.com/drive/folders/10roBIB6pCMIuXn_1_kffL-dqxcctF-yo?usp=drive_link)|
 
