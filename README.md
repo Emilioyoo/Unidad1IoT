@@ -50,7 +50,7 @@ Este repositorio contiene la documentación y el código de los ejercicios asign
 
 |Jonathan Emilio Yañez Olvera|--------------|
 |--------------|--------------|
-| 👽 Placa fenólica | <img src="" width="300"/> |
+| 👽 Placa fenólica | <img src="https://github.com/Emilioyoo/JO/blob/main/WhatsApp%20Image%202025-02-10%20at%203.01.12%20PM.jpeg?raw=true" width="300"/> |
 
 
 #### **Ejercicio 4 (10 puntos): Figura 2D o 3D soldada**
