@@ -37,6 +37,11 @@ Este repositorio contiene la documentación y el código de los ejercicios asign
 - [EJERCICIOS - DRIVE](https://drive.google.com/drive/folders/10roBIB6pCMIuXn_1_kffL-dqxcctF-yo?usp=drive_link)
 
 
+#### ** Examen QUIZ **
+
+![image](https://github.com/Emilioyoo/imagenex.git)
+
+
 
 #### **Ejercicio 3 (10 puntos): Circuito funcional en placa fenólica**
 **Evidencias:**
