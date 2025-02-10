@@ -39,7 +39,7 @@ Este repositorio contiene la documentación y el código de los ejercicios asign
 
 #### ** Examen QUIZ **
 
-![image](https://github.com/Emilioyoo/imagenex.git)
+![image](https://github.com/Emilioyoo/QUIZZ.git)
 
 
 
