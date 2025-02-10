@@ -2,7 +2,6 @@
 
 ### Autor
 | Nombre | Jonathan Emilio Yañez Olvera |
-|--------------|--------------|--------------|--------------|
 | Numero de control | 1223100505 |
 | Grupo | GDS0651 |
 
