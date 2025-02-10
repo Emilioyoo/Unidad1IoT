@@ -26,8 +26,7 @@ Este repositorio contiene la documentación y el código de los ejercicios asign
   
 | Evaluación Cisco |
 |--------------|
-|Jonathan Emilio Yañez Olvera | ![image](https://github.com/Emilioyoo/imagenes.git
-)|
+|Jonathan Emilio Yañez Olvera | ![image](https://github.com/Emilioyoo/imagenes.git)|
 
 | Examen final cisco |
 |--------------|
