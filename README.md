@@ -30,7 +30,7 @@ Este repositorio contiene la documentación y el código de los ejercicios asign
 
 | Examen final cisco |--------------|
 |--------------|--------------|
-|Jonathan Emilio Yañez Olvera | ![image](https://github.com/Emilioyoo/imagenex.git) |
+|Jonathan Emilio Yañez Olvera | ![image](https://github.com/Emilioyoo/imagenex/blob/main/Captura%20de%20pantalla%20(106).png?raw=true) |
 
 #### **Ejercicios en clase: **
 
