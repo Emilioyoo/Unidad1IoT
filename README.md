@@ -41,11 +41,15 @@ Este repositorio contiene la documentación y el código de los ejercicios asign
 #### **Ejercicio 3 (10 puntos): Circuito funcional en placa fenólica**
 **Evidencias:**
 
-|Jonathan Emilio Yañez Olvera| Placa fenólica | <img src="" width="300"/> |
+|Jonathan Emilio Yañez Olvera|--------------|
+|--------------|--------------|
+| Placa fenólica | <img src="" width="300"/> |
 
 
 #### **Ejercicio 4 (10 puntos): Figura 2D o 3D soldada**
 **Evidencias:**
 
-| Jonathan Emilio Yañez Olvera | Pelican |<img src="" width="300"/> |
+| Jonathan Emilio Yañez Olvera |--------------|
+|--------------|--------------|
+| Pelican |<img src="" width="300"/> |
 
