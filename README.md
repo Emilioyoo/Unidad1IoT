@@ -1,4 +1,4 @@
-# Proyecto IoT Unidad 1
+# ⚡ Proyecto IoT Unidad 1 ⚡
 
 ### Autor
 | 🎮 Nombre | Jonathan Emilio Yañez Olvera |
