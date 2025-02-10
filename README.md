@@ -48,7 +48,7 @@ Este repositorio contiene la documentación y el código de los ejercicios asign
 
 |Jonathan Emilio Yañez Olvera|--------------|
 |--------------|--------------|
-| Placa fenólica | <img src="https://github.com/Emilioyoo/QUIZZ.git" width="300"/> |
+| Placa fenólica | <img src="" width="300"/> |
 
 
 #### **Ejercicio 4 (10 puntos): Figura 2D o 3D soldada**
@@ -56,5 +56,5 @@ Este repositorio contiene la documentación y el código de los ejercicios asign
 
 | Jonathan Emilio Yañez Olvera |--------------|
 |--------------|--------------|
-| Pelican |<img src="" width="300"/> |
+| Pelican |<img src="https://github.com/Emilioyoo/QUIZZ.git" width="300"/> |
 
