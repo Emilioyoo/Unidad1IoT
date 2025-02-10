@@ -1,4 +1,4 @@
-# Proyecto IoT 
+# Proyecto IoT Unidad 1
 
 ### Autor
 | Nombre | Jonathan Emilio Yañez Olvera |
@@ -22,6 +22,8 @@ Este repositorio contiene la documentación y el código de los ejercicios asign
   - Funciones y manejo de archivos.
   - Control de flujo (condicionales y bucles).
   - Introducción a librerías de IoT en Python.
+ 
+
 - **Evidencias:**
   
 | Evaluación Cisco |--------------|
