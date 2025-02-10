@@ -11,7 +11,7 @@
 
 
 ## Descripción
-Este repositorio contiene la documentación y el código de los ejercicios asignados en el curso **NetAcad Python Fundamentals 2**, enfocados en el desarrollo de sistemas IoT 
+Este repositorio contiene la evidencia de los ejercicios asignados en el curso **NetAcad Python Fundamentals 2**, enfocados en el desarrollo de sistemas IoT y tambien de los ejercicoos vistos en clase junto con las tareas asignadas por el profesor.
 
 
 ## Contenido del Repositorio
