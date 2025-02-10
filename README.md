@@ -14,7 +14,7 @@ https://drive.google.com/drive/folders/10roBIB6pCMIuXn_1_kffL-dqxcctF-yo?usp=dri
 
 --Curso Python 2--
 <br>
-<img src="" width="500"/>
+https://github.com/Emilioyoo/imagenes.git
 
 --Cuestionario final--
 <br>
