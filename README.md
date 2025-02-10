@@ -1,7 +1,7 @@
 # Proyecto IoT Unidad 1
 
 ### Autor
-| Nombre | Jonathan Emilio Yañez Olvera |
+| 🎮 Nombre | Jonathan Emilio Yañez Olvera |
 |--------------|--------------|
 | Numero de control | 1223100505 |
 | Grupo | GDS0651 |
@@ -26,11 +26,11 @@ Este repositorio contiene la documentación y el código de los ejercicios asign
 
 ## Evidencias:
   
-| Evaluación Cisco |--------------|
+| 💥 Evaluación Cisco |--------------|
 |--------------|--------------|
 |Jonathan Emilio Yañez Olvera | ![image](https://raw.githubusercontent.com/Emilioyoo/imagenes/21450ed97bd938afc28cb014f4a5d7811b6329b4/Captura%20de%20pantalla%20(102).png) |
 
-| Examen final cisco |--------------|
+| 💥 Examen final cisco |--------------|
 |--------------|--------------|
 |Jonathan Emilio Yañez Olvera | ![image](https://github.com/Emilioyoo/imagenex/blob/main/Captura%20de%20pantalla%20(106).png?raw=true) |
 
@@ -50,7 +50,7 @@ Este repositorio contiene la documentación y el código de los ejercicios asign
 
 |Jonathan Emilio Yañez Olvera|--------------|
 |--------------|--------------|
-| Placa fenólica | <img src="" width="300"/> |
+| 👽 Placa fenólica | <img src="" width="300"/> |
 
 
 #### **Ejercicio 4 (10 puntos): Figura 2D o 3D soldada**
@@ -58,5 +58,5 @@ Este repositorio contiene la documentación y el código de los ejercicios asign
 
 | Jonathan Emilio Yañez Olvera |--------------|
 |--------------|--------------|
-| Pelican |<img src="https://github.com/Emilioyoo/QUIZZ/blob/main/WhatsApp%20Image%202025-02-10%20at%202.18.32%20PM.jpeg?raw=true" width="300"/> |
+| 👽 Pelican |<img src="https://github.com/Emilioyoo/QUIZZ/blob/main/WhatsApp%20Image%202025-02-10%20at%202.18.32%20PM.jpeg?raw=true" width="300"/> |
 
