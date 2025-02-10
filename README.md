@@ -24,13 +24,13 @@ Este repositorio contiene la documentación y el código de los ejercicios asign
   - Introducción a librerías de IoT en Python.
 - **Evidencias:**
   
-| Evaluación Cisco |
-|--------------|
-|Jonathan Emilio Yañez Olvera | ![image](https://github.com/Emilioyoo/imagenes.git)|
+| Evaluación Cisco |--------------|
+|--------------|--------------|
+|Jonathan Emilio Yañez Olvera | ![image](https://github.com/Emilioyoo/imagenes.git) |
 
-| Examen final cisco |
-|--------------|
-|Jonathan Emilio Yañez Olvera | ![image](https://github.com/Emilioyoo/imagenex.git)|
+| Examen final cisco |--------------|
+|--------------|--------------|
+|Jonathan Emilio Yañez Olvera | ![image](https://github.com/Emilioyoo/imagenex.git) |
 
 #### **Ejercicios en clase: **
 
