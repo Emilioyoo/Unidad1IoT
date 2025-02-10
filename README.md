@@ -18,7 +18,8 @@ https://github.com/Emilioyoo/imagenes.git
 
 --Cuestionario final--
 <br>
-<img src="" width="500"/>
+https://github.com/Emilioyoo/imagenex.git
+
 
 --Soldadura--
 
